@@ -4,7 +4,7 @@ A small Python script that converts a GIF into an ASCII animation.
 
 ## Video Demonstration
 
-Watch a video of the script in action [here](TODO).
+Watch a video of the script in action [here](https://youtube.com/shorts/FlFdEifu_Dw?feature=share).
 
 ## Features
 
